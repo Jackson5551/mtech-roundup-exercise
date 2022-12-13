@@ -1,0 +1,263 @@
+[
+	{
+		"studentId": "001",
+		"last_name": "Man",
+		"first_name": "Mario",
+		"classes":[
+			{
+				"class_code":"1122",
+				"class_name":"Plumbing Industries 203",
+				"credit_hours":"15"
+			}
+		]
+
+	},
+	{
+		"studentId": "002",
+		"last_name": "Man",
+		"first_name": "Luigi",
+		"classes":[
+			{
+				"class_code":"2233",
+				"class_name":"Fight Your Fears 101",
+				"credit_hours":"18"
+			}
+		]
+
+	},
+	{
+		"studentId": "003",
+		"last_name": "Peach",
+		"first_name": "Princess",
+		"classes":[
+			{
+				"class_code":"3344",
+				"class_name":"Cow Gutting 803",
+				"credit_hours":"16"
+			}
+		]
+
+	},
+	{
+		"studentId": "004",
+		"last_name": "Smalls",
+		"first_name": "Toad",
+		"classes":[
+			{
+				"class_code":"4455",
+				"class_name":"Bubble Blowing 609",
+				"credit_hours":"14"
+			}
+		]
+
+	},
+	{
+		"studentId": "005",
+		"last_name": "Sauce",
+		"first_name": "Toadette",
+		"classes":[
+			{
+				"class_code":"5566",
+				"class_name":"Cheese Grinding 101",
+				"credit_hours":"18"
+			}
+		]
+
+	},
+	{
+		"studentId": "006",
+		"last_name": "Koopaman",
+		"first_name": "Bowser",
+		"classes":[
+			{
+				"class_code":"7788",
+				"class_name":"World Domination 607",
+				"credit_hours":"17"
+			}
+		]
+
+	},
+	{
+		"studentId": "007",
+		"last_name": "Ripoff",
+		"first_name": "Daisy",
+		"classes":[
+			{
+				"class_code":"9900",
+				"class_name":"Scamming 101",
+				"credit_hours":"15"
+			}
+		]
+
+	},
+	{
+		"studentId": "008",
+		"last_name": "Goldminer",
+		"first_name": "Wario",
+		"classes":[
+			{
+				"class_code":"0012",
+				"class_name":"Becoming Rich 202",
+				"credit_hours":"15"
+			}
+		]
+
+	},
+	{
+		"studentId": "009",
+		"last_name": "Mystery",
+		"first_name": "Waluigi",
+		"classes":[
+			{
+				"class_code":"0023",
+				"class_name":"Making Roses 202",
+				"credit_hours":"15"
+			}
+		]
+
+	},
+	{
+		"studentId": "010",
+		"last_name": "Stars",
+		"first_name": "Rosalina",
+		"classes":[
+			{
+				"class_code":"0034",
+				"class_name":"Sugar Eating 902",
+				"credit_hours":"16"
+			}
+		]
+
+	},
+	{
+		"studentId": "011",
+		"last_name": "Steponme",
+		"first_name": "Goomba",
+		"classes":[
+			{
+				"class_code":"0045",
+				"class_name":"Weight Training 203",
+				"credit_hours":"1"
+			}
+		]
+
+	},
+	{
+		"studentId": "012",
+		"last_name": "Troopa",
+		"first_name": "Koopa",
+		"classes":[
+			{
+				"class_code":"0056",
+				"class_name":"Dancing 909",
+				"credit_hours":"3"
+			}
+		]
+
+	},
+	{
+		"studentId": "013",
+		"last_name": "Guy",
+		"first_name": "Shy",
+		"classes":[
+			{
+				"class_code":"0067",
+				"class_name":"Talking 101",
+				"credit_hours":"4"
+			}
+		]
+
+	},
+	{
+		"studentId": "014",
+		"last_name": "Genocide",
+		"first_name": "Kirby",
+		"classes":[
+			{
+				"class_code":"0078",
+				"class_name":"Error 404",
+				"credit_hours":"4"
+			}
+		]
+
+	},
+	{
+		"studentId": "015",
+		"last_name": "Kong",
+		"first_name": "Donkey",
+		"classes":[
+			{
+				"class_code":"0089",
+				"class_name":"Chest Bumps 708",
+				"credit_hours":"2"
+			}
+		]
+
+	},
+	{
+		"studentId": "016",
+		"last_name": "Kong",
+		"first_name": "Diddy",
+		"classes":[
+			{
+				"class_code":"0090",
+				"class_name":"Getting a Chest 101",
+				"credit_hours":"3"
+			}
+		]
+
+	},
+	{
+		"studentId": "017",
+		"last_name": "Knight",
+		"first_name": "Meta",
+		"classes":[
+			{
+				"class_code":"6969",
+				"class_name":"Sword Training 108",
+				"credit_hours":"5"
+			}
+		]
+
+	},
+	{
+		"studentId": "018",
+		"last_name": "Dedede",
+		"first_name": "King",
+		"classes":[
+			{
+				"class_code":"4200",
+				"class_name":"Hammering 902",
+				"credit_hours":"7"
+			}
+		]
+
+	},
+	{
+		"studentId": "019",
+		"last_name": "Servant",
+		"first_name": "Villiger",
+		"classes":[
+			{
+				"class_code":"7777",
+				"class_name":"Slavery 203",
+				"credit_hours":"3"
+			}
+		]
+
+	},
+	{
+		"studentId": "020",
+		"last_name": "Ride",
+		"first_name": "Yoshi",
+		"classes":[
+			{
+				"class_code":"1010",
+				"class_name":"Racing 101",
+				"credit_hours":"7"
+			}
+		]
+
+	}
+
+]
